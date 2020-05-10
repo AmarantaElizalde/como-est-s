@@ -1,0 +1,28 @@
+body{
+    font-family: 'Jost', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Lora', serif;
+}
+
+.navbar-brand img {
+    height: 7rem;
+    width: 7rem;
+}
+.gatito{
+    display: inline-block;
+    height: 15rem;
+}
+
+span{
+    font-weight: 700;
+}
+
+a {
+    color: #636363;
+    font-weight: 700;
+}
+
+footer{
+    height: ;
+}
